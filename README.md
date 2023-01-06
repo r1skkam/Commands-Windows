@@ -61,3 +61,24 @@ cmd /c "break |rem"
 ```Set-ExecutionPolicy RemoteSigned```
 
 ![image](https://user-images.githubusercontent.com/58542375/210086425-9051189c-b833-4d0e-907b-28dbeb25e9d1.png)
+
+```where rstrui.exe```
+
+```echo %SYSTEMROOT%```
+
+```start iexplore```
+
+```cd %TEMP%```
+
+```set SYSTEMROOT=%TEMP%```
+
+
+
+### Sources: 
+
+      https://youtu.be/p97cmJgChK4
+      
+      https://youtu.be/PuNgf29Gn8o
+
+      https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+        
